@@ -66,16 +66,18 @@ export class ProductManager {
     };
 }
 
-// const productos = new ProductManager();
+const productos = new ProductManager();
 
-// productos.addProduct("Remera", "overside negra", 25000, "img1", "asd123", 18);
-// productos.addProduct("Pantalon", "Cargo verde", 35000, "img2", "asd456", 15);
-// productos.addProduct("Remera", "overside blanca", 26000, "img3", "asd678",10);
-// productos.addProduct("Buzo", "overside negro", 45000, "img4", "asd678",17);
-// productos.addProduct("Remera", "overside gris", 26000, "img5", "asd678",16);
-// productos.addProduct("Buzo", "overside gris", 42000, "img6", "asd678",18);
-// productos.addProduct("Musculosa", "overside negra", 25000, "img7", "asd678",15);
-// productos.addProduct("Pantalon", "cargo arena", 35000, "img8", "asd678",13);
+productos.addProduct("Remera", "overside negra", 25000, "img1", "asd123", 18);
+productos.addProduct("Pantalon", "Cargo verde", 35000, "img2", "asd456", 15);
+productos.addProduct("Remera", "overside blanca", 26000, "img3", "asd678",10);
+productos.addProduct("Buzo", "overside negro", 45000, "img4", "zxc948",17);
+productos.addProduct("Remera", "overside gris", 26000, "img5", "sdg675",16);
+productos.addProduct("Buzo", "overside gris", 42000, "img6", "sdc483",18);
+productos.addProduct("Musculosa", "overside negra", 25000, "img7", "yui234",15);
+productos.addProduct("Pantalon", "cargo arena", 35000, "img8", "bnm789",13);
+productos.addProduct("Pantalon", "cargo negro", 35000, "img9", "xcb236",13);
+productos.addProduct("Buzo", "Blanco", 40000, "img10", "fgf567",13);
 
 // productos.getProducts()
 

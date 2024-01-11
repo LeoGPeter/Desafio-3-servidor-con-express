@@ -22,6 +22,6 @@ app.get("/products/:id", async (req, res) => {
     res.send(productById);
 });
 
-app.listen(3000, () => {
-console.log("aplicacion en el puerto 3000")
+app.listen(8080, () => {
+console.log("aplicacion en el puerto 8080")
 });
